@@ -1,0 +1,1 @@
+env\Scripts\python.exe "spam client-side.py"
